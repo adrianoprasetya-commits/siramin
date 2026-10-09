@@ -1,0 +1,8 @@
+{
+  "name": "siramin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SIRAMIN auction website: static page + one serverless API on Vercel (Upstash Redis + Gmail)",
+  "dependencies": { "nodemailer": "^6.9.16" },
+  "engines": { "node": ">=18" }
+}
